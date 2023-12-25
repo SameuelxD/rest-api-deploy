@@ -4,8 +4,7 @@
   "description": "Curso NodeJs SamuelAlvarez",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon http2.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
